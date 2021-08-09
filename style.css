@@ -1,0 +1,27 @@
+body {
+    font-family: Poppins, serif;
+}
+
+.container .centered {
+    display: flex;
+    justify-content: center;
+}
+
+.column {
+    float: left;
+    width: 50%;
+    vertical-align: center;
+}
+
+.column h1 {
+    margin-top: 50px;
+}
+
+.column h3 {
+    text-align: justify;
+    padding-right: 50px;
+}
+
+.column img {
+    padding-left: 200px;
+}
